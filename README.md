@@ -22,15 +22,15 @@ Press spacebar to cycle through debug images.
 ## Sample Run
 Sample console output:
 
-[[https://github.com/prozvora/NiceDice/tree/master/readme_images/sample_output.png|alt=NiceDice-console-output]]
-
-Sample debug image:
-
-[[https://github.com/prozvora/NiceDice/tree/master/readme_images/debug_output.png|alt=NiceDice-debug-output]]
-
-Sample pip debug image:
-
-[[https://github.com/prozvora/NiceDice/tree/master/readme_images/pip_debug_output.png|alt=NiceDice-pip-debug-output]]
+![console-output](https://github.com/prozvora/NiceDice/tree/master/readme_images/sample_output.png)
+ 
+ Sample debug image:
+ 
+![debug-output](https://github.com/prozvora/NiceDice/tree/master/readme_images/debug_output.png)
+ 
+ Sample pip debug image:
+ 
+![pip-debug-output](https://github.com/prozvora/NiceDice/tree/master/readme_images/pip_debug_output.png)
 
 ## Supplied Images
 Image descriptions:
